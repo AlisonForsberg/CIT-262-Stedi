@@ -1,0 +1,12 @@
+{
+    "expo": {
+      "name": "STEDI App",
+      "slug": "stedi-app",
+      "extra": {
+        "eas": {
+        }
+      },
+      "ios": {
+      }
+    }
+  }
